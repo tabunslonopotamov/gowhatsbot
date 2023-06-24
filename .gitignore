@@ -1,0 +1,9 @@
+*.db
+bin/
+tmp/
+*.list
+*.log
+Media/
+vendor/
+.hide/
+.vscode/

@@ -1,0 +1,10 @@
+{
+    "address": "file:soursop.db?_foreign_keys=on",
+    "name": "JustSoursop",
+    "os": "MacOS",
+    "platform": 0,
+    "log": "debug",
+    "client_log": "error",
+    "driver": "sqlite3",
+    "showqr": true
+}
