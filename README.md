@@ -15,8 +15,8 @@ Untuk menjalankan Bot, kita perlu untuk mengatur konfigurasi database pada berka
 ``` json
 {
     "driver": "sqlite3",
-    "address": "file:godev.db?_foreign_keys=on",
-    "name": "GoWhatsBot",
+    "address": "file:soursop.db?_foreign_keys=on",
+    "name": "JustSoursop",
     "os": "MacOS",
     "platform": 7,
     "log": "debug",
@@ -81,10 +81,6 @@ GOOS=linux GOARCH=amd64 CGO_ENABLED=1 go build -v -o ./main .
 
 # Kontribusi ?
 Silahkan jika ingin melakukan kontribusi dengan membuka issue, pull request maupun diskusi.
-
-# Donasi ?
-Silahkan untuk melakukan donasi jika berkenan.
-- Saweria : [Ma'mur Rezeki](https://saweria.co/mamurrezeki)
 
 # Library ?
 - [whatsmeow](https://go.mau.fi/whatsmeow)
